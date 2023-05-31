@@ -1,11 +1,11 @@
 [package]
 name = "testudo"
 version = "0.1.0"
-authors = ["Mara Mihali <mara.mihali@protocol.ai>","Srinath Setty <srinath@microsoft.com>" ]
+authors = []
 edition = "2021"
 description = "Spartan + Groth16 fast prover fast verifier SNARK"
 readme = "README.md"
-repository = "https://github.com/maramihali/Spartan"
+repository = ""
 license-file = "LICENSE"
 keywords = ["SNARKs", "cryptography", "proofs"]
 
