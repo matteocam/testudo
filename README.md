@@ -1,8 +1,6 @@
 # Testudo
 
-[![Build and Test Testudo](https://github.com/cryptonetlab/testudo/actions/workflows/testudo.yml/badge.svg?branch=master)](https://github.com/cryptonetlab/testudo/actions/workflows/testudo.yml)
-
-Testudo is a linear-time prover SNARK with a small and universal trusted setup. For a deep dive, please refer to [this](https://www.notion.so/pl-strflt/Testudo-Blog-Post-Final-a18db71f8e634ebbb9f68383f7904c51) blog post.
+Testudo is a linear-time prover SNARK with a small and universal trusted setup. 
 
 In the current stage, the repository contains:
 
@@ -22,6 +20,3 @@ To run the current benchmarks on BLS12-377:
 cargo bench --bench testudo --all-features release -- --nocapture
 ```
 
-## Join us!
-
-If you want to contribute, reach out to the Discord server of [cryptonet](https://discord.com/invite/CFnTSkVTCk).
